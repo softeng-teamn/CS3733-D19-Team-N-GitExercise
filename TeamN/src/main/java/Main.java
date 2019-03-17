@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        System.out.println("James");
         System.out.println("Calvin");
         System.out.println("Maya");
         System.out.println("Hello");
@@ -9,5 +10,6 @@ public class Main {
         System.out.println("Kimi Jiang");
         System.out.println("Mattheus Nascimento");
         System.out.println("Lauren Hatfield");
+
     }
 }
