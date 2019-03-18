@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Kimi Jiang");
         System.out.println("Mattheus Nascimento");
         System.out.println("Lauren Hatfield");
-        System.out.println("Test Merge") ;
+        System.out.println("Test Merge 2") ;
 
     }
 }
